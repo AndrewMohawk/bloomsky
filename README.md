@@ -1,12 +1,14 @@
-# bloomsky
-Few simple scripts to accompany https://www.andrewmohawk.com/2020/01/28/picking-apart-an-iot-camera-bloomsky/
+# BloomSky
+Few simple scripts to accompany https://www.andrewmohawk.com/2020/01/28/picking-apart-an-iot-camera-bloomsky/ that target http://www.bloomsky.com/ devices
 
 # Accounts
 If you need an account simply download the app for your mobile device and register. The registration is not email validated so feel free to use any email address
 
 # Building
 Just compile with go on whatever you are running:
+
  `go build bloomsearch.go`
+ 
  `go build bloompost.go`
  
 # BloomSearch
